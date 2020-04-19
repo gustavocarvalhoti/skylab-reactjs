@@ -1,0 +1,10 @@
+#React
+##Commands
+npm install -g create-react-app <- Config transpilation default
+create-react-app huntweb        <- Create project
+npm start                       <- Start project
+yarn add axios                  <- Get, post, put end delete
+yarn add react-router-dom       <- Manage routers
+
+##Content
+Disabled, onClick, map(just one for), Link
